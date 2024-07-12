@@ -1,3 +1,4 @@
 norika
 chocolate
 panda
+dog
